@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou um criador nato, sempre me envolvi em processos criativos, tanto na minha vida pessoal quanto na profissional e procuro usar essa qualidade para vencer meus desafios, me reinventando e melhorando a cada versão.
+
+Atualmente trabalho na AP Interactive como Desenvolvedor iOS.
 </p>
 
 <p align="left">
