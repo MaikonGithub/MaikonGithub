@@ -38,6 +38,20 @@
 </p>
 
 <p align="left">
+ 🦄 Linguagens:</br>
+<ul>
+<li><strong>SWIFT</strong></li>
+<li><strong>JS</strong></li>
+<li><strong>HTML</strong></li>
+<li><strong>CSS</strong></li>
+<li><strong>PYTHON</strong></li>
+<li><strong>FLASK</strong></li>
+  
+</ul>
+
+</p>
+
+<p align="left">
   💌 CONTATO: ⤵️
 
 
