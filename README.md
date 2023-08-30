@@ -19,16 +19,26 @@ Desenvolvi familiaridade com HTML, CSS, JS, Python e Flask, mesmo que de forma s
 Meu entusiasmo, habilidades de comunicação e vontade de enfrentar desafios definem minha energia positiva.</p>
 </p>
 
-<p align="left">
-  🦄 Linguagens: 
-     <ul>
-          <li><strong>Swift.</strong></li>
-          <li><strong>JS.</strong></li>
-          <li><strong>HTML.</strong></li>
-          <li><strong>CSS.</strong></li>
-          <li><strong>Python.</strong></li>
-          <li><strong>Flask.</strong></li>
+<p>
+  <h3>Maikon Ferreira</h3>
+  <small>Divinopolis, MG.</small>
+  <br>
+  <br>
+  Hello, I'm Maikon, a 33-year-old Jr. iOS developer currently part of the AP Digital Services team.<br>
+  My journey has been marked by a dynamic career transition: I shifted from law to programming.<br>
+  My initial enthusiasm for the SWIFT language led me to invest in a course and dive headfirst into practice.<br>
+  After overcoming obstacles and facing multiple interviews, I secured my place in the AP IT scene.<br>
+  My skills in SWIFT have significantly evolved throughout this journey.<br>
+  I've explored architectures like VIP, expanding my knowledge alongside MVVM and MVC.<br>
+  I've delved into innovative design patterns, protocol-oriented programming, BFF, and View Code.<br>
+  An important accomplishment was my contribution to the evolution of the Design System of the project I work on.<br>
+  <br>
+  In parallel, my curiosity has driven me to explore other technologies, allowing me to better understand the full programming landscape.<br>
+  I've gained familiarity with HTML, CSS, JS, Python, and Flask, even if it's been somewhat superficial so far.<br>
+  My enthusiasm, communication skills, and willingness to take on challenges define my positive energy.
 </p>
+
+
 
 <p align="left">
   💼 Ferramentas: <strong>MacBook Air (M1, 2020)</strong>
