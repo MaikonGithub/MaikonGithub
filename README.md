@@ -19,6 +19,8 @@
   My enthusiasm, communication skills, and willingness to take on challenges define my positive energy
 </p>
 <p align="left">
+</br>
+🇧🇷:</br>
  Olá, sou Maikon, um desenvolvedor iOS Jr.de 33 anos atualmente integrando a equipe da AP Digital Services.</br>
  Minha trajetória é marcada por uma transição de carreira dinâmica: migrei do direito para a programação.</br> 
  Meu entusiasmo inicial pela linguagem SWIFT me levou a investir em um curso e a mergulhar de cabeça na prática.</br> 
