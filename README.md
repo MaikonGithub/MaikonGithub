@@ -2,7 +2,7 @@
 
 <p align="left"> 
  <h3>Maikon Ferreira</h3>
- <small>Divinopolis -MG</small>
+ <small>Divinopolis -MG.</small>
 </br>
 </br>
   Olá, sou Maikon, um desenvolvedor iOS Jr.de 33 anos atualmente integrando a equipe da AP Digital Services.</br>
