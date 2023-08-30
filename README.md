@@ -26,7 +26,4 @@ Atualmente trabalho na AP Interactive como Desenvolvedor iOS.
 
   <a href="https://acesse.one/FtjR2" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=WPP AQUI"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/maikon.ferreira_/"/></a>
 </p>  
