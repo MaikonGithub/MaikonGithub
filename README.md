@@ -22,12 +22,12 @@ Meu entusiasmo, habilidades de comunicação e vontade de enfrentar desafios def
 <p align="left">
   🦄 Linguagens: 
      <ul>
-          <li></li><strong>Swift.</strong></li>
-          <li></li><strong>JS.</strong></li>
-          <li></li><strong>HTML.</strong></li>
-          <li></li><strong>CSS.</strong></li>
-          <li></li><strong>Python.</strong></li>
-          <li></li><strong>Flask.</strong></li>
+          <li><strong>Swift.</strong></li>
+          <li><strong>JS.</strong></li>
+          <li><strong>HTML.</strong></li>
+          <li><strong>CSS.</strong></li>
+          <li><strong>Python.</strong></li>
+          <li><strong>Flask.</strong></li>
 </p>
 
 <p align="left">
